@@ -1,0 +1,43 @@
+.pelotaPeque{
+    background:lightgray;
+    background-image: url(ball.png);
+    background-size: 200px 200px;
+    width: 200px;
+    height: 200px;
+    position:absolute;
+    top:-1px;
+    left: 400px;
+    }
+    
+    .pelotaGrande{
+    background:gray;
+    background-image: url(ball.png);
+    background-size: 400px 400px;
+    width: 400px;
+    height: 400px;
+    position:absolute;
+    top:-1px;
+    left:0px;
+    }
+    
+    .portePeque{
+    background:lightgray;
+    background-image: url(goal.png);
+    background-size: 400px 200px;
+    width: 400px;
+    height: 200px;
+    position:absolute;
+    top:400px;
+    left: 800px;
+    }
+    
+    .porteGrande{
+    background:lightblue;
+    background-image: url(goal.png);
+    background-size: 800px 400px;
+    width: 800px;
+    height: 400px;
+    position:absolute;
+    left:0px;
+    top:400px;
+    }
