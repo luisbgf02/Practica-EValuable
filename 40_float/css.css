@@ -1,0 +1,98 @@
+.marcoPelotas{
+    background:lightyellow;
+    width: 600px;
+    float:left
+}
+
+.pelotaPeque{
+    background:lightgray;
+    background-image: url(ball.png);
+    background-size: 200px 200px;
+    width: 200px;
+    height: 200px;
+    float:right;
+}
+
+.pelotaPeque2{
+    background:blue;
+    background-image: url(ball.png);
+    background-size: 200px 200px;
+    width: 200px;
+    height: 200px;
+    float:right;
+}
+
+.pelotaPeque3{
+    background:lightblue;
+    background-image: url(ball.png);
+    background-size: 200px 200px;
+    width: 200px;
+    height: 200px;
+    float:right;
+    
+}
+.pelotaPeque4{
+    background:lightblue;
+    background-image: url(ball.png);
+    background-size: 200px 200px;
+    width: 200px;
+    height: 200px;
+    float:right;
+    
+}
+.pelotaPeque5{
+    background:lightblue;
+    background-image: url(ball.png);
+    background-size: 200px 200px;
+    width: 200px;
+    height: 200px;
+    float:right;
+   
+}
+.pelotaPeque6{
+    background:lightblue;
+    background-image: url(ball.png);
+    background-size: 200px 200px;
+    width: 200px;
+    height: 200px;
+    float:right;
+    
+}
+.pelotaPeque7{
+    background:lightblue;
+    background-image: url(ball.png);
+    background-size: 200px 200px;
+    width: 200px;
+    height: 200px;
+    float:right;
+    
+}
+
+.pelotaPeque8{
+    background:lightblue;
+    background-image: url(ball.png);
+    background-size: 200px 200px;
+    width: 200px;
+    height: 200px;
+    float:right;
+    
+}
+.pelotaGrande{
+    background-color:green;
+    background-image: url(ball.png);
+    width: 400px;
+    height: 400px;
+    background-size: 400px 400px;
+    float:right;
+}
+
+.porteGrande{
+    background:lightyellow;
+    background-image: url(goal.png);
+    background-size: 600px 400px;
+    width: 600px;
+    height: 400px;
+    float:left;
+}
+
+
